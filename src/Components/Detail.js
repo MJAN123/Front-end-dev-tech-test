@@ -4,7 +4,7 @@ const Detail = (props) => {
   return (
     <div className="container">
       <div className="jumbotron jumbotron-fluid">
-        <h2 className="text-center"> Detait of User</h2>
+        <h2 className="text-center"> Detail of User</h2>
       </div>
 
       {props.Detail.length > 0 ? (
